@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Lab_01_gjurgiel")(type "KiCad")(uri "${KIPRJMOD}/Lab_01_gjurgiel.kicad_sym")(options "")(descr ""))
+)

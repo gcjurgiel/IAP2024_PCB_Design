@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Adjustable_Power_Suppy")(type "KiCad")(uri "${KIPRJMOD}/Adjustable_Power_Suppy.kicad_sym")(options "")(descr ""))
+)

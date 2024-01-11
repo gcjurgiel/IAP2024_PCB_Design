@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 459f07d1-fb95-4a80-a713-e0cbdbac4177)
+
+  (paper "A4")
+
+  (title_block
+    (title "Adjustable Power Supply")
+    (date "2024-01-11")
+  )
+
+  (lib_symbols
+  )
+
+)
