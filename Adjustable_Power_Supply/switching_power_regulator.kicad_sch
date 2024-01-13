@@ -1410,6 +1410,12 @@
     (uuid f90cbe4f-1082-44ec-bb0f-2b5ee2e85fa5)
   )
 
+  (text "See for design: https://www.tij.co.jp/lit/an/snva829/snva829.pdf?ts=1705089508213&ref_url=https%253A%252F%252Fwww.google.com%252F\n\nI belive this will work for my purpose, but it definetly needs another pass (or two) to make sure it does what I want, and that \ncompoents are sized properly"
+    (at 16.51 25.4 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 00c3dfde-33e9-4b3b-9a39-0a43093bf10d)
+  )
+
   (label "REG_OUT" (at 243.84 100.33 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3d039363-d906-4e36-bafe-9027313d05cf)
