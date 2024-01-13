@@ -473,32 +473,24 @@
       ""
     ],
     [
-      "5da9031e-097c-4b29-afe2-ab1ad28ff3b5",
-      "Switching Power Regulator"
+      "5a32a7c5-f46d-4e32-bb62-18eedd53c960",
+      "CC_CV_Regulator"
     ],
     [
-      "a38ce551-ee1f-4cd3-ac56-9a3d0121b385",
-      "Power Sensing"
-    ],
-    [
-      "fdd36b9d-c747-4ef0-8ec9-7c21f72cca73",
+      "f7247991-ac80-4638-8e7f-8f1518e52ffa",
       "Logic"
     ],
     [
-      "c81d81b3-da8d-4d8a-86f7-e9ec12ea6ea2",
+      "1efc02dc-1a5c-4da3-93dd-49bc056d0c7c",
       "Display"
     ],
     [
-      "ad4cd1a5-080b-4b74-a08e-f7741da091f5",
-      "Digital Power"
+      "cf3c9cf7-d499-4898-9db2-c82cba15fe97",
+      "Digital_Power_Regulators"
     ],
     [
-      "02a438d4-55ef-4cd3-8ffa-d132a1ac9f66",
-      "USB Connector"
-    ],
-    [
-      "7931c03b-7994-4587-b126-7d438486239a",
-      "DC Power Connector"
+      "5238b91b-2ef6-4d73-910f-d4c9bbb39878",
+      "Power_Monitors"
     ]
   ],
   "text_variables": {}
