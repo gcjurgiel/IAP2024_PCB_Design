@@ -1,4 +1,4 @@
-(footprint "DMN10H170SK3-13" (version 20221018) (generator pcbnew)
+(footprint "MC7812BDTRKG" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (tags "DMN10H170SK3-13 ")
   (attr smd)
