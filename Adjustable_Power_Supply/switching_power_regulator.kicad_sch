@@ -1507,7 +1507,7 @@
     (uuid e6c48bae-fd4b-403f-a624-ab6b891f1211)
   )
 
-  (hierarchical_label "REG_OUT" (shape output) (at 252.73 101.6 0) (fields_autoplaced)
+  (hierarchical_label "Vout" (shape output) (at 252.73 101.6 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 22b42526-6c8c-4337-8515-ec339032db1b)
   )
