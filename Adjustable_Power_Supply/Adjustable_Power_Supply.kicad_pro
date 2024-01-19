@@ -499,6 +499,10 @@
     [
       "7931c03b-7994-4587-b126-7d438486239a",
       "DC Power Connector"
+    ],
+    [
+      "c813e96c-9f39-4898-ac02-732c4c30765b",
+      "Power Output"
     ]
   ],
   "text_variables": {}

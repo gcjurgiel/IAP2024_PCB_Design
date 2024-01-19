@@ -56,6 +56,10 @@
     (stroke (width 0) (type default))
     (uuid 612bf5b7-1860-4d53-90b1-ed8b1cff98ee)
   )
+  (wire (pts (xy 195.58 57.15) (xy 203.2 57.15))
+    (stroke (width 0) (type default))
+    (uuid 6a898e91-48ce-4ece-8dda-cfe19e4d4287)
+  )
   (wire (pts (xy 170.18 76.2) (xy 170.18 110.49))
     (stroke (width 0) (type default))
     (uuid 82c4d810-c1da-450f-a646-d95533d9811c)
@@ -194,6 +198,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 3bcc8ce6-6922-4964-9b0d-d216d00ae934)
     )
+    (pin "Vout" output (at 195.58 57.15 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 23568a51-67d5-4b4d-a9c1-61da4703f943)
+    )
     (instances
       (project "Adjustable_Power_Supply"
         (path "/3a65e4ec-2626-487b-a9d1-b6e13c397e0a" (page "2"))
@@ -230,6 +238,27 @@
     (instances
       (project "Adjustable_Power_Supply"
         (path "/3a65e4ec-2626-487b-a9d1-b6e13c397e0a" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 203.2 36.83) (size 39.37 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c813e96c-9f39-4898-ac02-732c4c30765b)
+    (property "Sheetname" "Power Output" (at 203.2 36.1184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power_output.kicad_sch" (at 203.2 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "Vin" input (at 203.2 57.15 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d5b8b96f-ceb2-40d9-b074-5f3a2e91f17a)
+    )
+    (instances
+      (project "Adjustable_Power_Supply"
+        (path "/3a65e4ec-2626-487b-a9d1-b6e13c397e0a" (page "9"))
       )
     )
   )
